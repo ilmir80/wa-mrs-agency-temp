@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.1" name="office_3" tilewidth="32" tileheight="32" tilecount="256" columns="16">
- <image source="../../workadventure-map-office/tilesets_deviant_milkian_3.png" trans="ff00ff" width="512" height="512"/>
+ <image source="./tilesets_deviant_milkian_3.png" trans="ff00ff" width="512" height="512"/>
  <tile id="81">
   <properties>
    <property name="collides" type="bool" value="true"/>
